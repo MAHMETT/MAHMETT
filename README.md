@@ -1,12 +1,3 @@
-<div align="center">
-        <a href="#profile">
-  <img height="150" width="150" src="/public/images/Photo Profil Muhamat Jayakusuma.jpg"  />
-  </a>
-</div>
-
-#####
-
-<!-- Link -->
 
 <div align="center">
   <a href="https://www.tiktok.com/@x.yutori" target="_blank">
