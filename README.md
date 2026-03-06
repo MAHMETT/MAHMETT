@@ -1,13 +1,3 @@
-
-<div align="center">
-  <a href="https://www.tiktok.com/@x.yutori" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@mahmettt?si=2pOFQ91qtWZdJDoD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
 <!-- Visitor -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MAHMETT.MAHMETT&"  />
@@ -27,7 +17,7 @@
 
 ###
 
-<p align="left">I'm <strong>Muhamat Jayakusuma</strong>. I'm a programmer who is a web front-end developer. The nickname for my programmer name is <strong>MAHMETT</strong>. I'm a relaxed programmer. I have used various programming languages and various popular frameworks. </p>
+<p align="left">I'm a programmer who is a web front-end and back-end developer. The nickname for my programmer name is <strong>MAHMETT</strong>. I'm a relaxed programmer. I have used various programming languages and various popular frameworks. </p>
 
 ###
 
@@ -72,13 +62,6 @@
 
 </div>
 
-
-###
-
-
-### 💻 OS
-![Ubuntu](    https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -88,17 +71,6 @@
 <div align="center">
   <a href="#current-streak">
     <img src="https://streak-stats.demolab.com?user=MAHMETT&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="#stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAHMETT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  </a>
-  <a href="#leanguages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MAHMETT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   </a>
 </div>
 
