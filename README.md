@@ -68,14 +68,6 @@
 
 ###
 
-<div align="center">
-  <a href="#current-streak">
-    <img src="https://streak-stats.demolab.com?user=MAHMETT&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </a>
-</div>
-
-###
-
 <a href="#readme-top">
     <img src="https://raw.githubusercontent.com/MAHMETT/MAHMETT/output/snake.svg" alt="Snake animation" />
 </a>
