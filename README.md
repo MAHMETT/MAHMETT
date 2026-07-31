@@ -64,12 +64,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
-<a href="#readme-top">
+<!-- <a href="#readme-top">
     <img src="https://raw.githubusercontent.com/MAHMETT/MAHMETT/output/snake.svg" alt="Snake animation" />
-</a>
+</a> -->
 
 ###
